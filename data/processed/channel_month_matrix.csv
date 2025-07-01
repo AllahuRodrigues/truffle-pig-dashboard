@@ -1,0 +1,100 @@
+MONTH,CHANNEL,CAC,Retention Ratio,Media Spend
+JANUARY,Affiliate,0.0,0.24,0.0
+JANUARY,Direct,0.0,0.24,0.0
+JANUARY,Display,0.0,0.71,0.0
+JANUARY,Email,0.0,0.4,0.0
+JANUARY,Organic Search,0.0,0.2,0.0
+JANUARY,Organic Social,0.0,0.18,0.0
+JANUARY,Other,0.0,0.23,0.0
+JANUARY,Paid Social,0.0,0.22,0.0
+JANUARY,SMS,0.0,0.34,0.0
+JANUARY,Unattributed,0.0,0.29,0.0
+FEBRUARY,Affiliate,0.0,0.23,0.0
+FEBRUARY,Direct,0.0,0.23,0.0
+FEBRUARY,Display,0.0,0.58,0.0
+FEBRUARY,Email,0.0,0.38,0.0
+FEBRUARY,Organic Search,0.0,0.2,0.0
+FEBRUARY,Organic Social,0.0,0.16,0.0
+FEBRUARY,Other,0.0,0.21,0.0
+FEBRUARY,Paid Social,0.0,0.22,0.0
+FEBRUARY,SMS,0.0,0.33,0.0
+FEBRUARY,Unattributed,0.0,0.27,0.0
+MARCH,Affiliate,0.0,0.25,0.0
+MARCH,Direct,0.0,0.26,0.0
+MARCH,Email,0.0,0.4,0.0
+MARCH,Organic Search,0.0,0.24,0.0
+MARCH,Organic Social,0.0,0.2,0.0
+MARCH,Other,0.0,0.25,0.0
+MARCH,Paid Social,0.0,0.2,0.0
+MARCH,SMS,0.0,0.35,0.0
+MARCH,Unattributed,0.0,0.34,0.0
+APRIL,Affiliate,0.0,0.29,0.0
+APRIL,Direct,0.0,0.28,0.0
+APRIL,Email,0.0,0.41,0.0
+APRIL,Organic Search,0.0,0.26,0.0
+APRIL,Organic Social,0.0,0.29,0.0
+APRIL,Other,0.0,0.27,0.0
+APRIL,Paid Social,0.0,0.23,0.0
+APRIL,SMS,0.0,0.38,0.0
+APRIL,Unattributed,0.0,0.36,0.0
+MAY,Affiliate,0.0,0.0,0.0
+MAY,Direct,0.0,0.0,0.0
+MAY,Email,0.0,0.0,0.0
+MAY,Organic Search,0.0,0.0,0.0
+MAY,Organic Social,0.0,0.0,0.0
+MAY,Other,0.0,0.0,0.0
+MAY,Paid Social,0.0,0.0,0.0
+MAY,SMS,0.0,0.0,0.0
+MAY,Unattributed,0.0,0.0,0.0
+JUNE,Affiliate,0.0,0.0,0.0
+JUNE,Direct,0.0,0.0,0.0
+JUNE,Email,0.0,0.0,0.0
+JUNE,Organic Search,0.0,0.0,0.0
+JUNE,Organic Social,0.0,0.0,0.0
+JUNE,Other,0.0,0.0,0.0
+JUNE,Paid Social,0.0,0.0,0.0
+JUNE,SMS,0.0,0.0,0.0
+JUNE,Unattributed,0.0,0.0,0.0
+JULY,Affiliate,0.0,0.0,0.0
+JULY,Direct,0.0,0.0,0.0
+JULY,Email,0.0,0.0,0.0
+JULY,Organic Search,0.0,0.0,0.0
+JULY,Organic Social,0.0,0.0,0.0
+JULY,Other,0.0,0.0,0.0
+JULY,Paid Social,0.0,0.0,0.0
+JULY,SMS,0.0,0.0,0.0
+JULY,Unattributed,0.0,0.0,0.0
+AUGUST,Affiliate,0.0,0.0,0.0
+AUGUST,Direct,0.0,0.0,0.0
+AUGUST,Email,0.0,0.0,0.0
+AUGUST,Organic Search,0.0,0.0,0.0
+AUGUST,Organic Social,0.0,0.0,0.0
+AUGUST,Other,0.0,0.0,0.0
+AUGUST,Paid Social,0.0,0.0,0.0
+AUGUST,SMS,0.0,0.0,0.0
+AUGUST,Unattributed,0.0,0.0,0.0
+JANUARY,Affiliate Agency,0.0,0.0,6458.0
+JANUARY,Affiliate Media,0.0,0.0,25853.0
+JANUARY,Paid Search Agency,0.0,0.0,6063.14
+JANUARY,Paid Social Agency,0.0,0.0,12806.86
+JANUARY,Paid Social Media,0.0,0.0,110665.0
+FEBRUARY,Affiliate Agency,0.0,0.0,5597.0
+FEBRUARY,Affiliate Media,0.0,0.0,10886.0
+FEBRUARY,Paid Search Agency,0.0,0.0,6873.95
+FEBRUARY,Paid Social Agency,0.0,0.0,11996.05
+FEBRUARY,Paid Social Media,0.0,0.0,93826.0
+MARCH,Affiliate Agency,0.0,0.0,6222.0
+MARCH,Affiliate Media,0.0,0.0,12631.0
+MARCH,Paid Search Agency,0.0,0.0,8191.74
+MARCH,Paid Social Agency,0.0,0.0,16380.26
+MARCH,Paid Social Media,0.0,0.0,153218.0
+APRIL,Affiliate Agency,0.0,0.0,6460.0
+APRIL,Affiliate Media,0.0,0.0,13265.0
+APRIL,Paid Search Agency,0.0,0.0,8339.31
+APRIL,Paid Social Agency,0.0,0.0,15650.69
+APRIL,Paid Social Media,0.0,0.0,151295.0
+MAY,Affiliate Agency,0.0,0.0,8978.0
+MAY,Affiliate Media,0.0,0.0,18461.0
+MAY,Paid Search Agency,0.0,0.0,7500.72
+MAY,Paid Social Agency,0.0,0.0,22418.28
+MAY,Paid Social Media,0.0,0.0,238355.0
