@@ -4,3 +4,83 @@
 2025-07-01 19:30:07,912 - Found 2 bad rows in order_lines_2025-07-02.csv failing qty/price rules.
 2025-07-01 19:30:07,912 - SKIPPED ROW from order_lines_2025-07-02.csv (Index 1): {'order_id': 1002, 'customer_id': 'cust_b', 'order_datetime': '2025-07-02 11:00:00', 'sku': 'SKU02', 'qty': 0, 'unit_price': 15.0, 'discount': 0.0}
 2025-07-01 19:30:07,912 - SKIPPED ROW from order_lines_2025-07-02.csv (Index 3): {'order_id': 1004, 'customer_id': 'cust_d', 'order_datetime': '2025-07-02 13:00:00', 'sku': 'SKU04', 'qty': 1, 'unit_price': -5.0, 'discount': 0.0}
+2025-07-01 21:55:49,117 - Unrecognized schema for file customer_personas.csv. Moving to processed without action.
+2025-07-01 21:55:49,131 - Unrecognized schema for file email_flow_performance.csv. Moving to processed without action.
+2025-07-01 21:55:49,209 - Failed to process new_order_lines.csv: {
+    "SCHEMA": {
+        "COLUMN_NOT_IN_DATAFRAME": [
+            {
+                "schema": null,
+                "column": null,
+                "check": "column_in_dataframe",
+                "error": "column 'order_datetime' not in dataframe. Columns in dataframe: ['order_id', 'customer_id', 'datetime', 'sku', 'qty', 'unit_price', 'discount']"
+            }
+        ]
+    }
+}
+2025-07-01 21:55:49,381 - Failed to process order_lines_2025-07-03.csv: {
+    "SCHEMA": {
+        "WRONG_DATATYPE": [
+            {
+                "schema": null,
+                "column": "order_id",
+                "check": "dtype('str')",
+                "error": "expected series 'order_id' to have type str:failure cases:   index  failure_case0      0          10011      1          10022      2          10033      3          10044      4          10055      5          1006"
+            }
+        ],
+        "SERIES_CONTAINS_NULLS": [
+            {
+                "schema": null,
+                "column": "customer_id",
+                "check": "not_nullable",
+                "error": "non-nullable series 'customer_id' contains null values:2    NaNName: customer_id, dtype: object"
+            }
+        ]
+    },
+    "DATA": {
+        "DATAFRAME_CHECK": [
+            {
+                "schema": null,
+                "column": "qty",
+                "check": "greater_than_or_equal_to(1)",
+                "error": "Column 'qty' failed element-wise validator number 0: greater_than_or_equal_to(1) failure cases: 0"
+            },
+            {
+                "schema": null,
+                "column": "unit_price",
+                "check": "greater_than_or_equal_to(0.0)",
+                "error": "Column 'unit_price' failed element-wise validator number 0: greater_than_or_equal_to(0.0) failure cases: -5.0"
+            }
+        ]
+    }
+}
+2025-07-01 21:55:49,475 - Failed to process session_level_2025-07-03.csv: {
+    "DATA": {
+        "DATATYPE_COERCION": [
+            {
+                "schema": null,
+                "column": "session_start",
+                "check": "coerce_dtype('datetime64[ns]')",
+                "error": "Error while coercing 'session_start' to type datetime64[ns]: Could not coerce <class 'pandas.core.series.Series'> data_container into type datetime64[ns]:   index failure_case0      2   not_a_date"
+            }
+        ]
+    },
+    "SCHEMA": {
+        "SERIES_CONTAINS_NULLS": [
+            {
+                "schema": null,
+                "column": "user_id",
+                "check": "not_nullable",
+                "error": "non-nullable series 'user_id' contains null values:2    NaNName: user_id, dtype: object"
+            }
+        ],
+        "WRONG_DATATYPE": [
+            {
+                "schema": null,
+                "column": "session_start",
+                "check": "dtype('datetime64[ns]')",
+                "error": "expected series 'session_start' to have type datetime64[ns], got object"
+            }
+        ]
+    }
+}

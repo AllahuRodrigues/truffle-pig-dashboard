@@ -13,3 +13,13 @@
 2025-07-01 19:30:07,928 - Appended 3 rows to data\master_sessions.csv.
 2025-07-01 19:30:07,928 - Moved processed file to data\processed\session_level_2025-07-02.csv
 2025-07-01 19:30:07,928 - --- Finished Ingestion Pipeline Run ---
+2025-07-01 21:55:49,090 - Project directories ensured to exist.
+2025-07-01 21:55:49,117 - Created dummy files in data/new/ for processing.
+2025-07-01 21:55:49,117 - --- Starting Ingestion Pipeline Run (with Pandera Validation) ---
+2025-07-01 21:55:49,131 - Moved processed file to data\processed\customer_personas.csv
+2025-07-01 21:55:49,131 - Moved processed file to data\processed\email_flow_performance.csv
+2025-07-01 21:55:49,256 - Validation successful for new_sessions.csv. All 50 rows are valid.
+2025-07-01 21:55:49,256 - Hashed user_id column for new_sessions.csv.
+2025-07-01 21:55:49,256 - Appended 50 rows to data\master_sessions.csv.
+2025-07-01 21:55:49,272 - Moved processed file to data\processed\new_sessions.csv
+2025-07-01 21:55:49,475 - --- Finished Ingestion Pipeline Run ---
