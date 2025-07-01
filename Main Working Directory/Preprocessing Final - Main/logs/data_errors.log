@@ -1,0 +1,6 @@
+2025-07-01 19:30:07,865 - Unrecognized schema for file customer_personas.csv. Moving to processed without action.
+2025-07-01 19:30:07,865 - Unrecognized schema for file email_flow_performance.csv. Moving to processed without action.
+2025-07-01 19:30:07,881 - Unrecognized schema for file new_order_lines.csv. Moving to processed without action.
+2025-07-01 19:30:07,912 - Found 2 bad rows in order_lines_2025-07-02.csv failing qty/price rules.
+2025-07-01 19:30:07,912 - SKIPPED ROW from order_lines_2025-07-02.csv (Index 1): {'order_id': 1002, 'customer_id': 'cust_b', 'order_datetime': '2025-07-02 11:00:00', 'sku': 'SKU02', 'qty': 0, 'unit_price': 15.0, 'discount': 0.0}
+2025-07-01 19:30:07,912 - SKIPPED ROW from order_lines_2025-07-02.csv (Index 3): {'order_id': 1004, 'customer_id': 'cust_d', 'order_datetime': '2025-07-02 13:00:00', 'sku': 'SKU04', 'qty': 1, 'unit_price': -5.0, 'discount': 0.0}
