@@ -77,7 +77,7 @@ streamlit run dashboard.py
 The application will open in your default web browser.  
 **Use the sidebar to upload the required `cleaned_*.csv` files to populate the charts.**
 
----
+--
 
 ### (Optional) Step 3: Process New Raw Data
 
