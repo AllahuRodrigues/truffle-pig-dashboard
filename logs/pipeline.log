@@ -1,0 +1,30 @@
+2025-07-01 19:30:07,834 - Project directories ensured to exist.
+2025-07-01 19:30:07,850 - Created dummy files in data/new/ for processing.
+2025-07-01 19:30:07,850 - --- Starting Ingestion Pipeline Run ---
+2025-07-01 19:30:07,897 - Processing new_sessions.csv as session-level data.
+2025-07-01 19:30:07,897 - Hashed user_id column for new_sessions.csv.
+2025-07-01 19:30:07,897 - Appended 50 rows to data\master_sessions.csv.
+2025-07-01 19:30:07,897 - Moved processed file to data\processed\new_sessions.csv
+2025-07-01 19:30:07,912 - Validated order_lines_2025-07-02.csv: 2/5 rows are valid.
+2025-07-01 19:30:07,912 - Appended 2 rows to data\master_orders.csv.
+2025-07-01 19:30:07,912 - Moved processed file to data\processed\order_lines_2025-07-02.csv
+2025-07-01 19:30:07,928 - Processing session_level_2025-07-02.csv as session-level data.
+2025-07-01 19:30:07,928 - Hashed user_id column for session_level_2025-07-02.csv.
+2025-07-01 19:30:07,928 - Appended 3 rows to data\master_sessions.csv.
+2025-07-01 19:30:07,928 - Moved processed file to data\processed\session_level_2025-07-02.csv
+2025-07-01 19:30:07,928 - --- Finished Ingestion Pipeline Run ---
+2025-07-01 21:55:49,090 - Project directories ensured to exist.
+2025-07-01 21:55:49,117 - Created dummy files in data/new/ for processing.
+2025-07-01 21:55:49,117 - --- Starting Ingestion Pipeline Run (with Pandera Validation) ---
+2025-07-01 21:55:49,131 - Moved processed file to data\processed\customer_personas.csv
+2025-07-01 21:55:49,131 - Moved processed file to data\processed\email_flow_performance.csv
+2025-07-01 21:55:49,256 - Validation successful for new_sessions.csv. All 50 rows are valid.
+2025-07-01 21:55:49,256 - Hashed user_id column for new_sessions.csv.
+2025-07-01 21:55:49,256 - Appended 50 rows to data\master_sessions.csv.
+2025-07-01 21:55:49,272 - Moved processed file to data\processed\new_sessions.csv
+2025-07-01 21:55:49,475 - --- Finished Ingestion Pipeline Run ---
+2025-07-02 11:34:46,648 - INFO - --- Starting LTV Bootstrapping Demonstration ---
+2025-07-02 11:34:46,656 - INFO - Created sample LTV data for 500 customers.
+2025-07-02 11:34:46,656 - INFO - Performing 1000 bootstrap iterations...
+2025-07-02 11:34:46,821 - INFO - --- Bootstrapping Complete ---
+2025-07-02 11:34:46,821 - INFO - Successfully logged 95% CI to model_metrics.txt
