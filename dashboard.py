@@ -9,7 +9,7 @@ from pathlib import Path
 
 # --- App Configuration ---
 st.set_page_config(
-    page_title="ExcelDemocracy | Creative Performance Dashboard",
+    page_title="Truffle Pig | Creative Performance Dashboard",
     page_icon="💡",
     layout="wide"
 )
@@ -73,7 +73,7 @@ def load_model_and_features():
     return model, features
 
 # --- Main Dashboard UI ---
-st.title("💡 ExcelDemocracy | Creative Performance Dashboard")
+st.title("💡 Truffle Pig | Creative Performance Dashboard")
 st.markdown("A proof-of-concept dashboard analyzing the impact of creative assets on marketing KPIs.")
 
 data_df, campaigns_df, orders_df = load_data()

@@ -1,0 +1,22 @@
+name: truffle-pig
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - plotly
+  - streamlit
+  - optuna
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+    - lifelines
+    - joblib
+    - ipykernel
+    - ipywidgets 

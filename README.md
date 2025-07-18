@@ -1,6 +1,6 @@
 # 📊 ExcelDemocracy: Creative Performance Dashboard
 
-**ExcelDemocracy** is a proof-of-concept project showcasing how creative performance data can be transformed into **clear, actionable KPIs** using mock data, machine learning, and interactive visualizations.
+**Truffle Pig** is a proof-of-concept project showcasing how creative performance data can be transformed into **clear, actionable KPIs** using mock data, machine learning, and interactive visualizations.
 
 This project includes:
 - 📦 A mock data generator  
@@ -13,7 +13,7 @@ This project includes:
 
 | File/Script | Description |
 |-------------|-------------|
-| `mockdata.py` | A **data factory** script that generates synthetic campaign, session, and order data (`CSV` format). |
+| `mockupdata.py` | A **data factory** script that generates synthetic campaign, session, and order data (`CSV` format). |
 | `JupyterFile.ipynb` | A **Jupyter Notebook** covering the entire ML workflow: data loading, feature engineering, Optuna hyperparameter tuning, and XGBoost model training. |
 | `dashboard.py` | A **Streamlit app** offering an interactive dashboard for data exploration and predictive analytics. |
 | `requirements.txt` | A list of all required **Python dependencies**. |
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Run the mock data generator to create the required CSV files:
 
 ```bash
-python mockdata2.py
+python mockupdata.py
 ```
 
 This will create:
@@ -60,7 +60,7 @@ This will:
 Start the Streamlit app:
 
 ```bash
-streamlit run dashboards.py
+streamlit run dashboard.py
 ```
 
 Your browser will automatically open the interactive dashboard 🎯
