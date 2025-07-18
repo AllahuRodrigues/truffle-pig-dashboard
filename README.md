@@ -13,7 +13,7 @@ This project includes:
 
 | File/Script | Description |
 |-------------|-------------|
-| `mockdata2.py` | A **data factory** script that generates synthetic campaign, session, and order data (`CSV` format). |
+| `mockdata.py` | A **data factory** script that generates synthetic campaign, session, and order data (`CSV` format). |
 | `jupyterfile.ipynb` | A **Jupyter Notebook** covering the entire ML workflow: data loading, feature engineering, Optuna hyperparameter tuning, and XGBoost model training. |
 | `dashboards.py` | A **Streamlit app** offering an interactive dashboard for data exploration and predictive analytics. |
 | `requirements.txt` | A list of all required **Python dependencies**. |
