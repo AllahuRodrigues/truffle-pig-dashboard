@@ -1,0 +1,360 @@
+date,source,metric,value
+2023-11-01,Datahub (Shopify),AOV - Affiliate,79.0
+2023-12-01,Datahub (Shopify),AOV - Affiliate,73.0
+2024-01-01,Datahub (Shopify),AOV - Affiliate,71.0
+2024-02-01,Datahub (Shopify),AOV - Affiliate,73.0
+2024-03-01,Datahub (Shopify),AOV - Affiliate,73.0
+2024-04-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-05-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-06-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-07-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-08-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-09-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-10-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-11-01,Datahub (Shopify),AOV - Affiliate,72.0
+2024-12-01,Datahub (Shopify),AOV - Affiliate,72.0
+2025-01-01,Datahub (Shopify),AOV - Affiliate,78.0
+2025-02-01,Datahub (Shopify),AOV - Affiliate,78.0
+2025-03-01,Datahub (Shopify),AOV - Affiliate,78.0
+2025-04-01,Datahub (Shopify),AOV - Affiliate,78.0
+2025-05-01,Datahub (Shopify),AOV - Affiliate,78.0
+2023-11-01,Datahub (Shopify),AOV - Paid Search,70.0
+2023-12-01,Datahub (Shopify),AOV - Paid Search,67.0
+2024-01-01,Datahub (Shopify),AOV - Paid Search,67.0
+2024-02-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-03-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-04-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-05-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-06-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-07-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-08-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-09-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-10-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-11-01,Datahub (Shopify),AOV - Paid Search,68.0
+2024-12-01,Datahub (Shopify),AOV - Paid Search,68.0
+2025-01-01,Datahub (Shopify),AOV - Paid Search,72.0
+2025-02-01,Datahub (Shopify),AOV - Paid Search,72.0
+2025-03-01,Datahub (Shopify),AOV - Paid Search,72.0
+2025-04-01,Datahub (Shopify),AOV - Paid Search,72.0
+2025-05-01,Datahub (Shopify),AOV - Paid Search,72.0
+2023-11-01,Datahub (Shopify),AOV - Paid Social,66.0
+2023-12-01,Datahub (Shopify),AOV - Paid Social,65.0
+2024-01-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-02-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-03-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-04-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-05-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-06-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-07-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-08-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-09-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-10-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-11-01,Datahub (Shopify),AOV - Paid Social,66.0
+2024-12-01,Datahub (Shopify),AOV - Paid Social,66.0
+2025-01-01,Datahub (Shopify),AOV - Paid Social,68.0
+2025-02-01,Datahub (Shopify),AOV - Paid Social,68.0
+2025-03-01,Datahub (Shopify),AOV - Paid Social,68.0
+2025-04-01,Datahub (Shopify),AOV - Paid Social,68.0
+2025-05-01,Datahub (Shopify),AOV - Paid Social,68.0
+2021-05-01,Datahub (Shopify),CAC,32.48
+2021-06-01,Datahub (Shopify),CAC,44.91
+2021-07-01,Datahub (Shopify),CAC,31.75
+2021-08-01,Datahub (Shopify),CAC,39.69
+2021-09-01,Datahub (Shopify),CAC,53.82
+2021-10-01,Datahub (Shopify),CAC,43.2
+2021-11-01,Datahub (Shopify),CAC,31.32
+2021-12-01,Datahub (Shopify),CAC,46.13
+2022-01-01,Datahub (Shopify),CAC,47.95
+2022-02-01,Datahub (Shopify),CAC,47.16
+2022-03-01,Datahub (Shopify),CAC,38.74
+2022-04-01,Datahub (Shopify),CAC,45.82
+2022-05-01,Datahub (Shopify),CAC,43.71
+2022-06-01,Datahub (Shopify),CAC,55.33
+2022-07-01,Datahub (Shopify),CAC,44.99
+2022-08-01,Datahub (Shopify),CAC,45.19
+2022-09-01,Datahub (Shopify),CAC,45.54
+2022-10-01,Datahub (Shopify),CAC,51.72
+2022-11-01,Datahub (Shopify),CAC,36.52
+2022-12-01,Datahub (Shopify),CAC,61.8
+2023-01-01,Datahub (Shopify),CAC,38.16
+2023-02-01,Datahub (Shopify),CAC,57.14
+2023-03-01,Datahub (Shopify),CAC,34.02
+2023-04-01,Datahub (Shopify),CAC,46.2
+2023-05-01,Datahub (Shopify),CAC,39.29
+2023-06-01,Datahub (Shopify),CAC,44.02
+2023-07-01,Datahub (Shopify),CAC,34.69
+2023-08-01,Datahub (Shopify),CAC,37.36
+2023-09-01,Datahub (Shopify),CAC,42.87
+2023-10-01,Datahub (Shopify),CAC,41.92
+2023-11-01,Datahub (Shopify),CAC,41.34
+2023-12-01,Datahub (Shopify),CAC,40.12
+2024-01-01,Datahub (Shopify),CAC,40.17
+2024-02-01,Datahub (Shopify),CAC,49.51
+2024-03-01,Datahub (Shopify),CAC,46.24
+2024-04-01,Datahub (Shopify),CAC,48.01
+2024-05-01,Datahub (Shopify),CAC,50.11
+2024-06-01,Datahub (Shopify),CAC,49.27
+2024-07-01,Datahub (Shopify),CAC,53.49
+2024-08-01,Datahub (Shopify),CAC,51.81
+2024-09-01,Datahub (Shopify),CAC,49.62
+2024-10-01,Datahub (Shopify),CAC,56.71
+2024-11-01,Datahub (Shopify),CAC,42.34
+2024-12-01,Datahub (Shopify),CAC,44.9
+2025-01-01,Datahub (Shopify),CAC,49.51
+2025-02-01,Datahub (Shopify),CAC,57.11
+2025-03-01,Datahub (Shopify),CAC,58.33
+2025-04-01,Datahub (Shopify),CAC,56.48
+2025-05-01,Datahub (Shopify),CAC,59.39
+2021-05-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1246163.0
+2021-06-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",743366.0
+2021-07-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",837304.0
+2021-08-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",758426.0
+2021-09-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",793354.0
+2021-10-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",717909.0
+2021-11-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",2135058.0
+2021-12-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1155078.0
+2022-01-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",996896.0
+2022-02-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",833715.0
+2022-03-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1065743.0
+2022-04-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",946846.0
+2022-05-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1603958.0
+2022-06-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",812572.0
+2022-07-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",792936.0
+2022-08-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1040540.0
+2022-09-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1504647.0
+2022-10-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",878486.0
+2022-11-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",2814993.0
+2022-12-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1577359.0
+2023-01-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",968195.0
+2023-02-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",784298.0
+2023-03-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1118958.0
+2023-04-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",892836.0
+2023-05-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1702721.0
+2023-06-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",864458.0
+2023-07-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1036750.0
+2023-08-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",991799.0
+2023-09-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1182469.0
+2023-10-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",917970.0
+2023-11-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",2544000.0
+2023-12-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1595092.0
+2024-01-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",957701.42
+2024-02-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",954880.12
+2024-03-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",975024.0
+2024-04-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1090896.0
+2024-05-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1516158.0
+2024-06-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1011702.0
+2024-07-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",948312.0
+2024-08-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1128110.0
+2024-09-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",958711.0
+2024-10-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",985807.0
+2024-11-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1764492.0
+2024-12-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",2345488.0
+2025-01-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1079836.0
+2025-02-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",876298.0
+2025-03-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1159321.0
+2025-04-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1214503.0
+2025-05-01,Datahub (Shopify),"GROSS-DISC Missing 4 months of 21 because of migration from Magento to Shopify",1618042.0
+2021-05-01,Datahub (Shopify),NET SALES,878841.37
+2021-06-01,Datahub (Shopify),NET SALES,899896.28
+2021-07-01,Datahub (Shopify),NET SALES,904664.7
+2021-08-01,Datahub (Shopify),NET SALES,1029691.95
+2021-09-01,Datahub (Shopify),NET SALES,1444092.07
+2021-10-01,Datahub (Shopify),NET SALES,962539.02
+2021-11-01,Datahub (Shopify),NET SALES,892015.7
+2021-12-01,Datahub (Shopify),NET SALES,1069274.19
+2022-01-01,Datahub (Shopify),NET SALES,900406.87
+2022-02-01,Datahub (Shopify),NET SALES,926955.19
+2022-03-01,Datahub (Shopify),NET SALES,1681283.4
+2022-04-01,Datahub (Shopify),NET SALES,2244199.2
+2022-05-01,Datahub (Shopify),NET SALES,910408.0
+2022-06-01,Datahub (Shopify),NET SALES,740921.0
+2022-07-01,Datahub (Shopify),NET SALES,1065743.0
+2022-08-01,Datahub (Shopify),NET SALES,892836.0
+2022-09-01,Datahub (Shopify),NET SALES,1702721.0
+2022-10-01,Datahub (Shopify),NET SALES,864458.0
+2022-11-01,Datahub (Shopify),NET SALES,1036750.0
+2022-12-01,Datahub (Shopify),NET SALES,991799.0
+2023-01-01,Datahub (Shopify),NET SALES,1182469.0
+2023-02-01,Datahub (Shopify),NET SALES,917970.0
+2023-03-01,Datahub (Shopify),NET SALES,2544000.0
+2023-04-01,Datahub (Shopify),NET SALES,1595092.0
+2023-05-01,Datahub (Shopify),NET SALES,957701.42
+2023-06-01,Datahub (Shopify),NET SALES,954880.12
+2023-07-01,Datahub (Shopify),NET SALES,975024.0
+2023-08-01,Datahub (Shopify),NET SALES,1090896.0
+2023-09-01,Datahub (Shopify),NET SALES,1516158.0
+2023-10-01,Datahub (Shopify),NET SALES,1011702.0
+2023-11-01,Datahub (Shopify),NET SALES,948312.0
+2023-12-01,Datahub (Shopify),NET SALES,1128110.0
+2024-01-01,Datahub (Shopify),NET SALES,958711.0
+2024-02-01,Datahub (Shopify),NET SALES,985807.0
+2024-03-01,Datahub (Shopify),NET SALES,1764492.0
+2024-04-01,Datahub (Shopify),NET SALES,2345488.0
+2024-05-01,Datahub (Shopify),NET SALES,1079836.0
+2024-06-01,Datahub (Shopify),NET SALES,876298.0
+2024-07-01,Datahub (Shopify),NET SALES,1159321.0
+2024-08-01,Datahub (Shopify),NET SALES,1214503.0
+2024-09-01,Datahub (Shopify),NET SALES,1618042.0
+2023-11-01,Datahub (Shopify),NET SALES - Affiliate,30018.0
+2023-12-01,Datahub (Shopify),NET SALES - Affiliate,15000.0
+2024-01-01,Datahub (Shopify),NET SALES - Affiliate,10000.0
+2024-02-01,Datahub (Shopify),NET SALES - Affiliate,7000.0
+2024-03-01,Datahub (Shopify),NET SALES - Affiliate,9000.0
+2024-04-01,Datahub (Shopify),NET SALES - Affiliate,9000.0
+2024-05-01,Datahub (Shopify),NET SALES - Affiliate,16000.0
+2024-06-01,Datahub (Shopify),NET SALES - Affiliate,8000.0
+2024-07-01,Datahub (Shopify),NET SALES - Affiliate,8000.0
+2024-08-01,Datahub (Shopify),NET SALES - Affiliate,11000.0
+2024-09-01,Datahub (Shopify),NET SALES - Affiliate,8000.0
+2024-10-01,Datahub (Shopify),NET SALES - Affiliate,12000.0
+2024-11-01,Datahub (Shopify),NET SALES - Affiliate,25000.0
+2024-12-01,Datahub (Shopify),NET SALES - Affiliate,29000.0
+2025-01-01,Datahub (Shopify),NET SALES - Affiliate,11000.0
+2025-02-01,Datahub (Shopify),NET SALES - Affiliate,9000.0
+2025-03-01,Datahub (Shopify),NET SALES - Affiliate,12000.0
+2025-04-01,Datahub (Shopify),NET SALES - Affiliate,13000.0
+2025-05-01,Datahub (Shopify),NET SALES - Affiliate,14000.0
+2023-11-01,Datahub (Shopify),NET SALES - Paid Search,178000.0
+2023-12-01,Datahub (Shopify),NET SALES - Paid Search,112000.0
+2024-01-01,Datahub (Shopify),NET SALES - Paid Search,94000.0
+2024-02-01,Datahub (Shopify),NET SALES - Paid Search,68000.0
+2024-03-01,Datahub (Shopify),NET SALES - Paid Search,65000.0
+2024-04-01,Datahub (Shopify),NET SALES - Paid Search,79000.0
+2024-05-01,Datahub (Shopify),NET SALES - Paid Search,96000.0
+2024-06-01,Datahub (Shopify),NET SALES - Paid Search,62000.0
+2024-07-01,Datahub (Shopify),NET SALES - Paid Search,61000.0
+2024-08-01,Datahub (Shopify),NET SALES - Paid Search,83000.0
+2024-09-01,Datahub (Shopify),NET SALES - Paid Search,74000.0
+2024-10-01,Datahub (Shopify),NET SALES - Paid Search,74000.0
+2024-11-01,Datahub (Shopify),NET SALES - Paid Search,135000.0
+2024-12-01,Datahub (Shopify),NET SALES - Paid Search,150000.0
+2025-01-01,Datahub (Shopify),NET SALES - Paid Search,90000.0
+2025-02-01,Datahub (Shopify),NET SALES - Paid Search,71000.0
+2025-03-01,Datahub (Shopify),NET SALES - Paid Search,90000.0
+2025-04-01,Datahub (Shopify),NET SALES - Paid Search,94000.0
+2025-05-01,Datahub (Shopify),NET SALES - Paid Search,98000.0
+2023-11-01,Datahub (Shopify),NET SALES - Paid Social,66000.0
+2023-12-01,Datahub (Shopify),NET SALES - Paid Social,50000.0
+2024-01-01,Datahub (Shopify),NET SALES - Paid Social,17000.0
+2024-02-01,Datahub (Shopify),NET SALES - Paid Social,14000.0
+2024-03-01,Datahub (Shopify),NET SALES - Paid Social,15000.0
+2024-04-01,Datahub (Shopify),NET SALES - Paid Social,21000.0
+2024-05-01,Datahub (Shopify),NET SALES - Paid Social,55000.0
+2024-06-01,Datahub (Shopify),NET SALES - Paid Social,28000.0
+2024-07-01,Datahub (Shopify),NET SALES - Paid Social,26000.0
+2024-08-01,Datahub (Shopify),NET SALES - Paid Social,48000.0
+2024-09-01,Datahub (Shopify),NET SALES - Paid Social,33000.0
+2024-10-01,Datahub (Shopify),NET SALES - Paid Social,24000.0
+2024-11-01,Datahub (Shopify),NET SALES - Paid Social,62000.0
+2024-12-01,Datahub (Shopify),NET SALES - Paid Social,81000.0
+2025-01-01,Datahub (Shopify),NET SALES - Paid Social,28000.0
+2025-02-01,Datahub (Shopify),NET SALES - Paid Social,21000.0
+2025-03-01,Datahub (Shopify),NET SALES - Paid Social,37000.0
+2025-04-01,Datahub (Shopify),NET SALES - Paid Social,37000.0
+2025-05-01,Datahub (Shopify),NET SALES - Paid Social,42000.0
+2021-05-01,Google Analytics,ROAS,5.55
+2021-06-01,Google Analytics,ROAS,4.35
+2021-07-01,Google Analytics,ROAS,6.48
+2021-08-01,Google Analytics,ROAS,5.32
+2021-09-01,Google Analytics,ROAS,3.87
+2021-10-01,Google Analytics,ROAS,4.72
+2021-11-01,Google Analytics,ROAS,6.86
+2021-12-01,Google Analytics,ROAS,4.22
+2022-01-01,Google Analytics,ROAS,4.75
+2022-02-01,Google Analytics,ROAS,5.01
+2022-03-01,Google Analytics,ROAS,6.2
+2022-04-01,Google Analytics,ROAS,5.53
+2022-05-01,Google Analytics,ROAS,5.9
+2022-06-01,Google Analytics,ROAS,4.22
+2022-07-01,Google Analytics,ROAS,4.69
+2022-08-01,Google Analytics,ROAS,6.13
+2022-09-01,Google Analytics,ROAS,5.77
+2022-10-01,Google Analytics,ROAS,4.89
+2022-11-01,Google Analytics,ROAS,6.11
+2022-12-01,Google Analytics,ROAS,4.28
+2023-01-01,Google Analytics,ROAS,5.9
+2023-02-01,Google Analytics,ROAS,4.6
+2023-03-01,Google Analytics,ROAS,6.3
+2023-04-01,Google Analytics,ROAS,5.43
+2023-05-01,Google Analytics,ROAS,6.96
+2023-06-01,Google Analytics,ROAS,5.2
+2023-07-01,Google Analytics,ROAS,6.04
+2023-08-01,Google Analytics,ROAS,5.93
+2023-09-01,Google Analytics,ROAS,5.81
+2023-10-01,Google Analytics,ROAS,5.18
+2023-11-01,Google Analytics,ROAS,5.6
+2023-12-01,Google Analytics,ROAS,4.79
+2024-01-01,Google Analytics,ROAS,5.12
+2024-02-01,Google Analytics,ROAS,4.28
+2024-03-01,Google Analytics,ROAS,4.98
+2024-04-01,Google Analytics,ROAS,5.13
+2024-05-01,Google Analytics,ROAS,5.11
+2024-06-01,Google Analytics,ROAS,5.02
+2024-07-01,Google Analytics,ROAS,4.56
+2024-08-01,Google Analytics,ROAS,4.9
+2024-09-01,Google Analytics,ROAS,4.42
+2024-10-01,Google Analytics,ROAS,4.21
+2024-11-01,Google Analytics,ROAS,5.01
+2024-12-01,Google Analytics,ROAS,5.6
+2025-01-01,Google Analytics,ROAS,5.1
+2025-02-01,Google Analytics,ROAS,4.3
+2025-03-01,Google Analytics,ROAS,4.7
+2025-04-01,Google Analytics,ROAS,4.9
+2025-05-01,Google Analytics,ROAS,5.2
+2023-11-01,Google Analytics,ROAS - Affiliate,2.1
+2023-12-01,Google Analytics,ROAS - Affiliate,1.0
+2024-01-01,Google Analytics,ROAS - Affiliate,0.7
+2024-02-01,Google Analytics,ROAS - Affiliate,0.7
+2024-03-01,Google Analytics,ROAS - Affiliate,0.7
+2024-04-01,Google Analytics,ROAS - Affiliate,0.7
+2024-05-01,Google Analytics,ROAS - Affiliate,0.7
+2024-06-01,Google Analytics,ROAS - Affiliate,0.7
+2024-07-01,Google Analytics,ROAS - Affiliate,0.7
+2024-08-01,Google Analytics,ROAS - Affiliate,0.7
+2024-09-01,Google Analytics,ROAS - Affiliate,0.7
+2024-10-01,Google Analytics,ROAS - Affiliate,0.7
+2024-11-01,Google Analytics,ROAS - Affiliate,0.7
+2024-12-01,Google Analytics,ROAS - Affiliate,0.7
+2025-01-01,Google Analytics,ROAS - Affiliate,0.7
+2025-02-01,Google Analytics,ROAS - Affiliate,0.7
+2025-03-01,Google Analytics,ROAS - Affiliate,0.7
+2025-04-01,Google Analytics,ROAS - Affiliate,0.7
+2025-05-01,Google Analytics,ROAS - Affiliate,0.7
+2023-11-01,Google Analytics,ROAS - Paid Search,6.3
+2023-12-01,Google Analytics,ROAS - Paid Search,4.0
+2024-01-01,Google Analytics,ROAS - Paid Search,2.8
+2024-02-01,Google Analytics,ROAS - Paid Search,2.1
+2024-03-01,Google Analytics,ROAS - Paid Search,2.0
+2024-04-01,Google Analytics,ROAS - Paid Search,2.4
+2024-05-01,Google Analytics,ROAS - Paid Search,2.9
+2024-06-01,Google Analytics,ROAS - Paid Search,1.9
+2024-07-01,Google Analytics,ROAS - Paid Search,1.9
+2024-08-01,Google Analytics,ROAS - Paid Search,2.5
+2024-09-01,Google Analytics,ROAS - Paid Search,2.2
+2024-10-01,Google Analytics,ROAS - Paid Search,2.2
+2024-11-01,Google Analytics,ROAS - Paid Search,4.1
+2024-12-01,Google Analytics,ROAS - Paid Search,4.5
+2025-01-01,Google Analytics,ROAS - Paid Search,2.7
+2025-02-01,Google Analytics,ROAS - Paid Search,2.2
+2025-03-01,Google Analytics,ROAS - Paid Search,2.8
+2025-04-01,Google Analytics,ROAS - Paid Search,2.9
+2025-05-01,Google Analytics,ROAS - Paid Search,3.0
+2023-11-01,Google Analytics,ROAS - Paid Social,1.0
+2023-12-01,Google Analytics,ROAS - Paid Social,0.8
+2024-01-01,Google Analytics,ROAS - Paid Social,0.3
+2024-02-01,Google Analytics,ROAS - Paid Social,0.2
+2024-03-01,Google Analytics,ROAS - Paid Social,0.2
+2024-04-01,Google Analytics,ROAS - Paid Social,0.3
+2024-05-01,Google Analytics,ROAS - Paid Social,0.8
+2024-06-01,Google Analytics,ROAS - Paid Social,0.4
+2024-07-01,Google Analytics,ROAS - Paid Social,0.4
+2024-08-01,Google Analytics,ROAS - Paid Social,0.7
+2024-09-01,Google Analytics,ROAS - Paid Social,0.5
+2024-10-01,Google Analytics,ROAS - Paid Social,0.4
+2024-11-01,Google Analytics,ROAS - Paid Social,0.9
+2024-12-01,Google Analytics,ROAS - Paid Social,1.2
+2025-01-01,Google Analytics,ROAS - Paid Social,0.4
+2025-02-01,Google Analytics,ROAS - Paid Social,0.3
+2025-03-01,Google Analytics,ROAS - Paid Social,0.6
+2025-04-01,Google Analytics,ROAS - Paid Social,0.6
+2025-05-01,Google Analytics,ROAS - Paid Social,0.6

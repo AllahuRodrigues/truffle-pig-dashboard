@@ -1,0 +1,5 @@
+user_id,session_id,session_start,source,medium,campaign
+user1@example.com,sess001,2025-07-02 09:00,google,cpc,summer_sale
+user2@example.com,sess002,2025-07-02 09:15,facebook,social,brand_awareness
+,sess003,not_a_date,google,organic,(not set)
+user4@example.com,sess004,2025-07-02 09:45,instagram,social,q3_promo

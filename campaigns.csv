@@ -1,0 +1,51 @@
+campaign_id,campaign_name,start_date,spend,creative_format,creative_theme,effectiveness_tier
+campaign_1,Campaign 1 (Low),2023-03-16,21141,UGC,Promo / Sale,Low
+campaign_2,Campaign 2 (Medium),2023-03-04,21896,lifestyle,Evergreen,Medium
+campaign_3,Campaign 3 (Low),2023-01-24,7412,lifestyle,Promo / Sale,Low
+campaign_4,Campaign 4 (Medium),2023-06-23,12906,UGC,Evergreen,Medium
+campaign_5,Campaign 5 (Medium),2023-04-06,18033,lifestyle,Promo / Sale,Medium
+campaign_6,Campaign 6 (Low),2023-11-05,20598,static,Promo / Sale,Low
+campaign_7,Campaign 7 (Medium),2023-04-11,2281,video,Evergreen,Medium
+campaign_8,Campaign 8 (Medium),2023-06-24,2317,UGC,Promo / Sale,Medium
+campaign_9,Campaign 9 (Medium),2023-12-21,23214,static,Evergreen,Medium
+campaign_10,Campaign 10 (Low),2023-03-21,20773,UGC,Evergreen,Low
+campaign_11,Campaign 11 (High),2023-12-13,23953,lifestyle,Evergreen,High
+campaign_12,Campaign 12 (Low),2023-08-20,23433,static,Evergreen,Low
+campaign_13,Campaign 13 (Low),2023-06-02,2613,lifestyle,Evergreen,Low
+campaign_14,Campaign 14 (Medium),2023-04-02,19637,lifestyle,Evergreen,Medium
+campaign_15,Campaign 15 (Medium),2023-07-11,14141,static,Evergreen,Medium
+campaign_16,Campaign 16 (Medium),2023-11-25,6666,lifestyle,Evergreen,Medium
+campaign_17,Campaign 17 (Low),2023-04-09,2506,UGC,Evergreen,Low
+campaign_18,Campaign 18 (Medium),2023-11-01,11913,UGC,Evergreen,Medium
+campaign_19,Campaign 19 (High),2023-01-05,24926,video,Evergreen,High
+campaign_20,Campaign 20 (Medium),2023-04-20,20744,static,Evergreen,Medium
+campaign_21,Campaign 21 (Low),2023-03-10,4842,lifestyle,Evergreen,Low
+campaign_22,Campaign 22 (Medium),2023-10-21,20044,static,Evergreen,Medium
+campaign_23,Campaign 23 (Medium),2023-06-04,11312,static,Promo / Sale,Medium
+campaign_24,Campaign 24 (Low),2023-09-30,21863,static,Evergreen,Low
+campaign_25,Campaign 25 (Low),2023-07-05,8448,UGC,Evergreen,Low
+campaign_26,Campaign 26 (High),2023-12-08,23214,UGC,Evergreen,High
+campaign_27,Campaign 27 (High),2023-11-26,7170,static,Promo / Sale,High
+campaign_28,Campaign 28 (High),2023-08-11,20171,video,Evergreen,High
+campaign_29,Campaign 29 (Low),2023-11-12,20015,static,Promo / Sale,Low
+campaign_30,Campaign 30 (High),2023-08-04,21169,lifestyle,Evergreen,High
+campaign_31,Campaign 31 (Low),2023-10-17,22243,static,Promo / Sale,Low
+campaign_32,Campaign 32 (Medium),2023-09-14,10823,static,Evergreen,Medium
+campaign_33,Campaign 33 (Medium),2023-05-08,1708,UGC,Evergreen,Medium
+campaign_34,Campaign 34 (High),2023-08-04,10759,UGC,Evergreen,High
+campaign_35,Campaign 35 (Low),2023-07-17,21534,lifestyle,Promo / Sale,Low
+campaign_36,Campaign 36 (Medium),2023-04-14,13171,video,Evergreen,Medium
+campaign_37,Campaign 37 (Medium),2023-07-13,19830,video,Evergreen,Medium
+campaign_38,Campaign 38 (Low),2023-08-01,14894,video,Promo / Sale,Low
+campaign_39,Campaign 39 (Medium),2023-05-23,4916,UGC,Evergreen,Medium
+campaign_40,Campaign 40 (High),2023-07-23,12144,UGC,Promo / Sale,High
+campaign_41,Campaign 41 (Low),2023-01-08,3070,static,Promo / Sale,Low
+campaign_42,Campaign 42 (Low),2023-07-25,7551,static,Evergreen,Low
+campaign_43,Campaign 43 (Medium),2023-03-22,10356,UGC,Evergreen,Medium
+campaign_44,Campaign 44 (Low),2023-04-14,2587,static,Promo / Sale,Low
+campaign_45,Campaign 45 (High),2023-07-03,15028,UGC,Evergreen,High
+campaign_46,Campaign 46 (Low),2023-03-01,12365,static,Promo / Sale,Low
+campaign_47,Campaign 47 (Medium),2023-02-06,23178,static,Evergreen,Medium
+campaign_48,Campaign 48 (Low),2023-01-10,18321,UGC,Evergreen,Low
+campaign_49,Campaign 49 (High),2023-10-25,19430,lifestyle,Evergreen,High
+campaign_50,Campaign 50 (Low),2023-03-06,3748,static,Evergreen,Low

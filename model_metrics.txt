@@ -1,4 +1,0 @@
-
---- LTV Model Performance ---
-Point Estimate (Average LTV): $178.67
-95% Confidence Interval (Error Band): $169.07 - $188.55

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ExcelDemocracy | Pitch Deck</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .slide {
+            display: none;
+        }
+        .slide.active {
+            display: block;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4">
+
+    <div class="w-full max-w-5xl bg-white rounded-2xl shadow-2xl overflow-hidden">
+        <!-- Slides Container -->
+        <div id="slides-container" class="relative">
+
+            <!-- Slide 1: The Big Picture -->
+            <div id="slide-1" class="slide active p-8 md:p-12">
+                <div class="text-center mb-8">
+                    <h1 class="text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">ExcelDemocracy: From Data to Decision</h1>
+                    <p class="mt-4 text-lg text-gray-600">Transforming complex creative data into clear, actionable KPIs.</p>
+                </div>
+                <div class="bg-gray-200 rounded-xl p-4 border border-gray-300">
+                     <img src="https://placehold.co/1000x550/E2E8F0/4A5568?text=Dashboard+Overview+Screenshot" 
+                         alt="Dashboard Overview Screenshot" 
+                         class="rounded-lg shadow-md w-full">
+                </div>
+                <div class="mt-6 text-center text-gray-500">
+                    <p>Our framework provides a holistic view of campaign performance, linking creative attributes directly to financial outcomes.</p>
+                </div>
+            </div>
+
+            <!-- Slide 2: Performance Analysis -->
+            <div id="slide-2" class="slide p-8 md:p-12">
+                <div class="text-center mb-8">
+                    <h1 class="text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">Performance Analysis: Where We Win & Lose</h1>
+                    <p class="mt-4 text-lg text-gray-600">Identifying top-performing creative strategies at a glance.</p>
+                </div>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="flex flex-col">
+                        <h2 class="text-2xl font-semibold text-gray-700 mb-3 text-center">Detailed Performance Breakdown</h2>
+                        <div class="bg-gray-200 rounded-xl p-3 border border-gray-300 flex-grow">
+                            <img src="https://placehold.co/600x400/E2E8F0/4A5568?text=ROAS/CAC+Treemap+Screenshot" 
+                                 alt="ROAS/CAC Treemap Screenshot" 
+                                 class="rounded-md shadow-sm w-full h-full object-cover">
+                        </div>
+                         <p class="mt-3 text-sm text-gray-600 text-center">The treemap visualizes revenue (size) and ROAS (color), highlighting that "Evergreen" video content is a major profit driver.</p>
+                    </div>
+                    <div class="flex flex-col">
+                        <h2 class="text-2xl font-semibold text-gray-700 mb-3 text-center">Campaign Payback Periods</h2>
+                        <div class="bg-gray-200 rounded-xl p-3 border border-gray-300 flex-grow">
+                             <img src="https://placehold.co/600x400/E2E8F0/4A5568?text=Payback+Curve+Screenshot" 
+                                 alt="Payback Curve Screenshot" 
+                                 class="rounded-md shadow-sm w-full h-full object-cover">
+                        </div>
+                        <p class="mt-3 text-sm text-gray-600 text-center">Track campaign profitability over time to understand which investments pay for themselves the fastest.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Slide 3: Future-Facing Insights -->
+            <div id="slide-3" class="slide p-8 md:p-12">
+                <div class="text-center mb-8">
+                    <h1 class="text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">Future-Facing & Predictive Insights</h1>
+                    <p class="mt-4 text-lg text-gray-600">Leveraging machine learning to forecast outcomes and guide strategy.</p>
+                </div>
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div class="flex flex-col">
+                        <h2 class="text-2xl font-semibold text-gray-700 mb-3 text-center">Budget Lift Forecast</h2>
+                        <div class="bg-gray-200 rounded-xl p-3 border border-gray-300 flex-grow">
+                             <img src="https://placehold.co/600x400/E2E8F0/4A5568?text=Lift+Forecast+Screenshot" 
+                                 alt="Lift Forecast Screenshot" 
+                                 class="rounded-md shadow-sm w-full h-full object-cover">
+                        </div>
+                        <p class="mt-3 text-sm text-gray-600 text-center">Our model predicts the incremental revenue from a budget increase, turning marketing into a predictable growth lever.</p>
+                    </div>
+                    <div class="flex flex-col">
+                        <h2 class="text-2xl font-semibold text-gray-700 mb-3 text-center">Key Conversion Drivers</h2>
+                        <div class="bg-gray-200 rounded-xl p-3 border border-gray-300 flex-grow">
+                             <img src="https://placehold.co/600x400/E2E8F0/4A5568?text=Model+Insights+Screenshot" 
+                                 alt="Model Insights Screenshot" 
+                                 class="rounded-md shadow-sm w-full h-full object-cover">
+                        </div>
+                        <p class="mt-3 text-sm text-gray-600 text-center">We identify the most impactful creative attributes, showing exactly *why* we're winning and how to replicate success.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Navigation -->
+        <div class="bg-gray-800 p-4 flex justify-between items-center">
+            <button id="prev-btn" class="bg-gray-600 hover:bg-gray-500 text-white font-bold py-2 px-6 rounded-lg transition duration-300 disabled:opacity-50 disabled:cursor-not-allowed">
+                Previous
+            </button>
+            <div id="slide-counter" class="text-gray-300 text-sm">
+                Slide 1 of 3
+            </div>
+            <button id="next-btn" class="bg-blue-600 hover:bg-blue-500 text-white font-bold py-2 px-6 rounded-lg transition duration-300">
+                Next
+            </button>
+        </div>
+    </div>
+
+    <script>
+        const slides = document.querySelectorAll('.slide');
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const slideCounter = document.getElementById('slide-counter');
+        let currentSlide = 0;
+        const totalSlides = slides.length;
+
+        function updateSlide() {
+            slides.forEach((slide, index) => {
+                slide.classList.toggle('active', index === currentSlide);
+            });
+            slideCounter.textContent = `Slide ${currentSlide + 1} of ${totalSlides}`;
+            prevBtn.disabled = currentSlide === 0;
+            nextBtn.disabled = currentSlide === totalSlides - 1;
+        }
+
+        prevBtn.addEventListener('click', () => {
+            if (currentSlide > 0) {
+                currentSlide--;
+                updateSlide();
+            }
+        });
+
+        nextBtn.addEventListener('click', () => {
+            if (currentSlide < totalSlides - 1) {
+                currentSlide++;
+                updateSlide();
+            }
+        });
+
+        // Initial setup
+        updateSlide();
+    </script>
+</body>
+</html>

@@ -1,0 +1,1921 @@
+source,metric,value,date
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1079836.0,2025-01-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",957701.42,2024-01-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",968195.0,2023-01-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",996896.0,2022-01-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",771735.0,2021-01-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",266097.0,2025-01-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",270766.0,2024-01-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",299600.0,2023-01-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",259650.0,2022-01-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",190110.0,2021-01-01
+"Datahub
+(Shopify)",ORDERS,10272.0,2025-01-01
+"Datahub
+(Shopify)",ORDERS,9489.0,2024-01-01
+"Datahub
+(Shopify)",ORDERS,9291.0,2023-01-01
+"Datahub
+(Shopify)",ORDERS,8954.0,2022-01-01
+"Datahub
+(Shopify)",ORDERS,7393.0,2021-01-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9863.0,2025-01-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9107.0,2024-01-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8946.0,2023-01-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8688.0,2022-01-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7125.0,2021-01-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4819.0,2025-01-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4571.0,2024-01-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4587.0,2023-01-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4617.0,2022-01-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4224.0,2021-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5044.0,2025-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4536.0,2024-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4359.0,2023-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4071.0,2022-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,2901.0,2021-01-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.86,2025-01-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.5,2024-01-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.1,2023-01-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.45,2022-01-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2021-01-01
+"Datahub
+(Shopify)",AUR,,2025-01-01
+"Datahub
+(Shopify)",AUR,30.77,2024-01-01
+"Datahub
+(Shopify)",AUR,28.9,2023-01-01
+"Datahub
+(Shopify)",AUR,31.63,2022-01-01
+"Datahub
+(Shopify)",AUR,28.96,2021-01-01
+"Datahub
+(Shopify)",AOV,105.12,2025-01-01
+"Datahub
+(Shopify)",AOV,100.93,2024-01-01
+"Datahub
+(Shopify)",AOV,107.35,2023-01-01
+"Datahub
+(Shopify)",AOV,115.27,2022-01-01
+"Datahub
+(Shopify)",AOV,104.0,2021-01-01
+"Datahub
+(Shopify)",UPT,,2025-01-01
+"Datahub
+(Shopify)",UPT,3.7,2024-01-01
+"Datahub
+(Shopify)",UPT,4.0,2023-01-01
+"Datahub
+(Shopify)",UPT,3.9,2022-01-01
+"Datahub
+(Shopify)",UPT,3.8,2021-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,49.81,2024-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,48.73,2023-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,46.86,2022-01-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,40.72,2021-01-01
+Datahub,MEDIA ROAS (only ad cost),2.3,2025-01-01
+Datahub,MEDIA ROAS (only ad cost),3.3,2024-01-01
+Datahub,MEDIA ROAS (only ad cost),2.9,2023-01-01
+Datahub,MEDIA ROAS (only ad cost),2.6,2022-01-01
+Datahub,MEDIA ROAS (only ad cost),4.1,2021-01-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.7,2025-01-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",6.8,2024-01-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-01-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-01-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-01-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,315415.0,2025-01-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2024-01-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-01-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-01-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-01-01
+Datahub,CAC,37.27,2025-01-01
+Datahub,CAC,23.79,2024-01-01
+Datahub,CAC,26.83,2023-01-01
+Datahub,CAC,30.59,2022-01-01
+Datahub,CAC,13.41,2021-01-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-01-01
+Datahub,TOTAL COST (Ads & Agency Fees),141037.0,2024-01-01
+Datahub,TOTAL COST (Ads & Agency Fees),188446.0,2023-01-01
+Datahub,TOTAL COST (Ads & Agency Fees),188274.0,2022-01-01
+Datahub,TOTAL COST (Ads & Agency Fees),56661.0,2021-01-01
+Datahub,CPO,,2025-01-01
+Datahub,CPO,14.86,2024-01-01
+Datahub,CPO,20.28,2023-01-01
+Datahub,CPO,21.03,2022-01-01
+Datahub,CPO,7.66,2021-01-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",876298.0,2025-02-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",954880.12,2024-02-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",784298.0,2023-02-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",833715.0,2022-02-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",615627.0,2021-02-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",263346.0,2025-02-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",270374.0,2024-02-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",345550.0,2023-02-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",272620.0,2022-02-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",141890.0,2021-02-01
+"Datahub
+(Shopify)",ORDERS,7955.0,2025-02-01
+"Datahub
+(Shopify)",ORDERS,8107.0,2024-02-01
+"Datahub
+(Shopify)",ORDERS,7448.0,2023-02-01
+"Datahub
+(Shopify)",ORDERS,7457.0,2022-02-01
+"Datahub
+(Shopify)",ORDERS,5667.0,2021-02-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7641.0,2025-02-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7699.0,2024-02-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7133.0,2023-02-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7250.0,2022-02-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,5522.0,2021-02-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3893.0,2025-02-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3495.0,2024-02-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3650.0,2023-02-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4004.0,2022-02-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3051.0,2021-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3748.0,2025-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4204.0,2024-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3483.0,2023-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3246.0,2022-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,2471.0,2021-02-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.02,2025-02-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.0,2024-02-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,2.16,2023-02-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,2.74,2022-02-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2021-02-01
+"Datahub
+(Shopify)",AUR,,2025-02-01
+"Datahub
+(Shopify)",AUR,35.0,2024-02-01
+"Datahub
+(Shopify)",AUR,32.66,2023-02-01
+"Datahub
+(Shopify)",AUR,32.14,2022-02-01
+"Datahub
+(Shopify)",AUR,31.98,2021-02-01
+"Datahub
+(Shopify)",AOV,110.16,2025-02-01
+"Datahub
+(Shopify)",AOV,117.78,2024-02-01
+"Datahub
+(Shopify)",AOV,108.32,2023-02-01
+"Datahub
+(Shopify)",AOV,115.61,2022-02-01
+"Datahub
+(Shopify)",AOV,109.0,2021-02-01
+"Datahub
+(Shopify)",UPT,,2025-02-01
+"Datahub
+(Shopify)",UPT,3.7,2024-02-01
+"Datahub
+(Shopify)",UPT,3.6,2023-02-01
+"Datahub
+(Shopify)",UPT,3.9,2022-02-01
+"Datahub
+(Shopify)",UPT,3.6,2021-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,54.6,2024-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,48.83,2023-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,44.77,2022-02-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,44.75,2021-02-01
+Datahub,MEDIA ROAS (only ad cost),2.2,2025-02-01
+Datahub,MEDIA ROAS (only ad cost),2.2,2024-02-01
+Datahub,MEDIA ROAS (only ad cost),2.1,2023-02-01
+Datahub,MEDIA ROAS (only ad cost),2.3,2022-02-01
+Datahub,MEDIA ROAS (only ad cost),4.2,2021-02-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.5,2025-02-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.2,2024-02-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-02-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-02-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-02-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,350186.0,2025-02-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2024-02-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-02-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-02-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-02-01
+Datahub,CAC,37.63,2025-02-01
+Datahub,CAC,43.07,2024-02-01
+Datahub,CAC,33.51,2023-02-01
+Datahub,CAC,37.97,2022-02-01
+Datahub,CAC,15.28,2021-02-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-02-01
+Datahub,TOTAL COST (Ads & Agency Fees),184073.0,2024-02-01
+Datahub,TOTAL COST (Ads & Agency Fees),163596.0,2023-02-01
+Datahub,TOTAL COST (Ads & Agency Fees),203872.0,2022-02-01
+Datahub,TOTAL COST (Ads & Agency Fees),46614.0,2021-02-01
+Datahub,CPO,,2025-02-01
+Datahub,CPO,22.71,2024-02-01
+Datahub,CPO,21.97,2023-02-01
+Datahub,CPO,27.34,2022-02-01
+Datahub,CPO,8.23,2021-02-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1159321.0,2025-03-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",975024.0,2024-03-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1118958.0,2023-03-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1065743.0,2022-03-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",681097.0,2021-03-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",301104.0,2025-03-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",225549.0,2024-03-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",284000.0,2023-03-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",228310.0,2022-03-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",136220.0,2021-03-01
+"Datahub
+(Shopify)",ORDERS,10787.0,2025-03-01
+"Datahub
+(Shopify)",ORDERS,9028.0,2024-03-01
+"Datahub
+(Shopify)",ORDERS,11175.0,2023-03-01
+"Datahub
+(Shopify)",ORDERS,10221.0,2022-03-01
+"Datahub
+(Shopify)",ORDERS,6153.0,2021-03-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,10196.0,2025-03-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8626.0,2024-03-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,10723.0,2023-03-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9682.0,2022-03-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,5916.0,2021-03-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4832.0,2025-03-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3542.0,2024-03-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,5569.0,2023-03-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4621.0,2022-03-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3181.0,2021-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5364.0,2025-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5084.0,2024-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5154.0,2023-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5061.0,2022-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,2735.0,2021-03-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.58,2025-03-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.0,2024-03-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.93,2023-03-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.48,2022-03-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2021-03-01
+"Datahub
+(Shopify)",AUR,,2025-03-01
+"Datahub
+(Shopify)",AUR,30.41,2024-03-01
+"Datahub
+(Shopify)",AUR,33.52,2023-03-01
+"Datahub
+(Shopify)",AUR,30.55,2022-03-01
+"Datahub
+(Shopify)",AUR,31.23,2021-03-01
+"Datahub
+(Shopify)",AOV,107.47,2025-03-01
+"Datahub
+(Shopify)",AOV,108.0,2024-03-01
+"Datahub
+(Shopify)",AOV,101.8,2023-03-01
+"Datahub
+(Shopify)",AOV,106.93,2022-03-01
+"Datahub
+(Shopify)",AOV,111.0,2021-03-01
+"Datahub
+(Shopify)",UPT,,2025-03-01
+"Datahub
+(Shopify)",UPT,3.4,2024-03-01
+"Datahub
+(Shopify)",UPT,3.3,2023-03-01
+"Datahub
+(Shopify)",UPT,3.9,2022-03-01
+"Datahub
+(Shopify)",UPT,3.7,2021-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,58.94,2024-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,48.06,2023-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,52.27,2022-03-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,46.23,2021-03-01
+Datahub,MEDIA ROAS (only ad cost),2.0,2025-03-01
+Datahub,MEDIA ROAS (only ad cost),2.3,2024-03-01
+Datahub,MEDIA ROAS (only ad cost),2.4,2023-03-01
+Datahub,MEDIA ROAS (only ad cost),3.2,2022-03-01
+Datahub,MEDIA ROAS (only ad cost),4.2,2021-03-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",4.8,2025-03-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.8,2024-03-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-03-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-03-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-03-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,338189.0,2025-03-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2024-03-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-03-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-03-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-03-01
+Datahub,CAC,45.59,2025-03-01
+Datahub,CAC,38.57,2024-03-01
+Datahub,CAC,24.69,2023-03-01
+Datahub,CAC,24.6,2022-03-01
+Datahub,CAC,16.85,2021-03-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-03-01
+Datahub,TOTAL COST (Ads & Agency Fees),168129.0,2024-03-01
+Datahub,TOTAL COST (Ads & Agency Fees),175293.0,2023-03-01
+Datahub,TOTAL COST (Ads & Agency Fees),184830.0,2022-03-01
+Datahub,TOTAL COST (Ads & Agency Fees),53606.0,2021-03-01
+Datahub,CPO,,2025-03-01
+Datahub,CPO,18.62,2024-03-01
+Datahub,CPO,15.69,2023-03-01
+Datahub,CPO,18.08,2022-03-01
+Datahub,CPO,8.71,2021-03-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1214503.0,2025-04-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1090896.0,2024-04-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",892836.0,2023-04-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",946846.0,2022-04-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",540752.0,2021-04-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",283670.0,2025-04-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",228567.0,2024-04-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",253170.0,2023-04-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",245730.0,2022-04-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",110510.0,2021-04-01
+"Datahub
+(Shopify)",ORDERS,10182.0,2025-04-01
+"Datahub
+(Shopify)",ORDERS,9594.0,2024-04-01
+"Datahub
+(Shopify)",ORDERS,7915.0,2023-04-01
+"Datahub
+(Shopify)",ORDERS,8070.0,2022-04-01
+"Datahub
+(Shopify)",ORDERS,4785.0,2021-04-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9614.0,2025-04-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9104.0,2024-04-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7552.0,2023-04-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7716.0,2022-04-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,4904.0,2021-04-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4004.0,2025-04-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4120.0,2024-04-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3451.0,2023-04-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3570.0,2022-04-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,2692.0,2021-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5610.0,2025-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4984.0,2024-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4101.0,2023-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4146.0,2022-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,2212.0,2021-04-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.59,2025-04-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.2,2024-04-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.13,2023-04-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.28,2022-04-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2021-04-01
+"Datahub
+(Shopify)",AUR,,2025-04-01
+"Datahub
+(Shopify)",AUR,27.74,2024-04-01
+"Datahub
+(Shopify)",AUR,34.5,2023-04-01
+"Datahub
+(Shopify)",AUR,33.18,2022-04-01
+"Datahub
+(Shopify)",AUR,32.87,2021-04-01
+"Datahub
+(Shopify)",AOV,119.28,2025-04-01
+"Datahub
+(Shopify)",AOV,113.71,2024-04-01
+"Datahub
+(Shopify)",AOV,115.4,2023-04-01
+"Datahub
+(Shopify)",AOV,120.99,2022-04-01
+"Datahub
+(Shopify)",AOV,113.0,2021-04-01
+"Datahub
+(Shopify)",UPT,,2025-04-01
+"Datahub
+(Shopify)",UPT,3.9,2024-04-01
+"Datahub
+(Shopify)",UPT,3.8,2023-04-01
+"Datahub
+(Shopify)",UPT,4.1,2022-04-01
+"Datahub
+(Shopify)",UPT,3.6,2021-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,54.75,2024-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,54.3,2023-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,53.73,2022-04-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,45.11,2021-04-01
+Datahub,MEDIA ROAS (only ad cost),2.0,2025-04-01
+Datahub,MEDIA ROAS (only ad cost),2.5,2024-04-01
+Datahub,MEDIA ROAS (only ad cost),1.6,2023-04-01
+Datahub,MEDIA ROAS (only ad cost),2.4,2022-04-01
+Datahub,MEDIA ROAS (only ad cost),3.8,2021-04-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.0,2025-04-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.7,2024-04-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-04-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-04-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-04-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,332866.0,2025-04-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2024-04-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-04-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-04-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-04-01
+Datahub,CAC,60.87,2025-04-01
+Datahub,CAC,39.08,2024-04-01
+Datahub,CAC,41.85,2023-04-01
+Datahub,CAC,35.65,2022-04-01
+Datahub,CAC,19.62,2021-04-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-04-01
+Datahub,TOTAL COST (Ads & Agency Fees),192914.0,2024-04-01
+Datahub,TOTAL COST (Ads & Agency Fees),190339.0,2023-04-01
+Datahub,TOTAL COST (Ads & Agency Fees),201941.0,2022-04-01
+Datahub,TOTAL COST (Ads & Agency Fees),52812.0,2021-04-01
+Datahub,CPO,,2025-04-01
+Datahub,CPO,20.11,2024-04-01
+Datahub,CPO,24.05,2023-04-01
+Datahub,CPO,25.02,2022-04-01
+Datahub,CPO,11.04,2021-04-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1618042.0,2025-05-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1516158.0,2024-05-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1702721.0,2023-05-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1603958.0,2022-05-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1246163.0,2021-05-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",351809.0,2025-05-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",320523.0,2024-05-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",381890.0,2023-05-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",379550.0,2022-05-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",200740.0,2021-05-01
+"Datahub
+(Shopify)",ORDERS,15579.0,2025-05-01
+"Datahub
+(Shopify)",ORDERS,15173.0,2024-05-01
+"Datahub
+(Shopify)",ORDERS,17469.0,2023-05-01
+"Datahub
+(Shopify)",ORDERS,14599.0,2022-05-01
+"Datahub
+(Shopify)",ORDERS,11701.0,2021-05-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,14916.0,2025-05-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,14566.0,2024-05-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,16652.0,2023-05-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,13962.0,2022-05-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,11979.0,2021-05-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,5447.0,2025-05-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,6875.0,2024-05-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,8047.0,2023-05-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,6178.0,2022-05-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,6786.0,2021-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,9469.0,2025-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,7691.0,2024-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,8605.0,2023-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,7784.0,2022-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5193.0,2021-05-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.43,2025-05-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.73,2024-05-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.57,2023-05-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.85,2022-05-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,5.83,2021-05-01
+"Datahub
+(Shopify)",AUR,,2025-05-01
+"Datahub
+(Shopify)",AUR,23.2,2024-05-01
+"Datahub
+(Shopify)",AUR,28.16,2023-05-01
+"Datahub
+(Shopify)",AUR,27.28,2022-05-01
+"Datahub
+(Shopify)",AUR,23.6,2021-05-01
+"Datahub
+(Shopify)",AOV,103.86,2025-05-01
+"Datahub
+(Shopify)",AOV,99.92,2024-05-01
+"Datahub
+(Shopify)",AOV,99.72,2023-05-01
+"Datahub
+(Shopify)",AOV,112.52,2022-05-01
+"Datahub
+(Shopify)",AOV,107.0,2021-05-01
+"Datahub
+(Shopify)",UPT,,2025-05-01
+"Datahub
+(Shopify)",UPT,4.1,2024-05-01
+"Datahub
+(Shopify)",UPT,4.1,2023-05-01
+"Datahub
+(Shopify)",UPT,4.5,2022-05-01
+"Datahub
+(Shopify)",UPT,4.8,2021-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,52.8,2024-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,51.68,2023-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,55.75,2022-05-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,43.35,2021-05-01
+Datahub,MEDIA ROAS (only ad cost),2.1,2025-05-01
+Datahub,MEDIA ROAS (only ad cost),1.9,2024-05-01
+Datahub,MEDIA ROAS (only ad cost),2.4,2023-05-01
+Datahub,MEDIA ROAS (only ad cost),2.7,2022-05-01
+Datahub,MEDIA ROAS (only ad cost),7.1,2021-05-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",4.8,2025-05-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",4.3,2024-05-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-05-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-05-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-05-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,330297.0,2025-05-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2024-05-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-05-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-05-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-05-01
+Datahub,CAC,61.79,2025-05-01
+Datahub,CAC,44.92,2024-05-01
+Datahub,CAC,33.13,2023-05-01
+Datahub,CAC,32.42,2022-05-01
+Datahub,CAC,10.49,2021-05-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-05-01
+Datahub,TOTAL COST (Ads & Agency Fees),352110.0,2024-05-01
+Datahub,TOTAL COST (Ads & Agency Fees),321961.0,2023-05-01
+Datahub,TOTAL COST (Ads & Agency Fees),249459.0,2022-05-01
+Datahub,TOTAL COST (Ads & Agency Fees),71158.0,2021-05-01
+Datahub,CPO,,2025-05-01
+Datahub,CPO,23.21,2024-05-01
+Datahub,CPO,18.43,2023-05-01
+Datahub,CPO,17.09,2022-05-01
+Datahub,CPO,6.08,2021-05-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",,2025-06-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1011702.0,2024-06-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",864458.0,2023-06-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",812572.0,2022-06-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",743366.0,2021-06-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",,2025-06-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",226315.0,2024-06-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",242070.0,2023-06-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",244580.0,2022-06-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",171400.0,2021-06-01
+"Datahub
+(Shopify)",ORDERS,,2025-06-01
+"Datahub
+(Shopify)",ORDERS,9348.0,2024-06-01
+"Datahub
+(Shopify)",ORDERS,8689.0,2023-06-01
+"Datahub
+(Shopify)",ORDERS,7436.0,2022-06-01
+"Datahub
+(Shopify)",ORDERS,7379.0,2021-06-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,3016.0,2025-06-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8966.0,2024-06-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8294.0,2023-06-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7135.0,2022-06-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7198.0,2021-06-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,,2025-06-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4131.0,2024-06-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3993.0,2023-06-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3371.0,2022-06-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4124.0,2021-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3016.0,2025-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4835.0,2024-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4301.0,2023-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3764.0,2022-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3074.0,2021-06-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2025-06-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.13,2024-06-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.59,2023-06-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.04,2022-06-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.31,2021-06-01
+"Datahub
+(Shopify)",AUR,,2025-06-01
+"Datahub
+(Shopify)",AUR,26.71,2024-06-01
+"Datahub
+(Shopify)",AUR,29.38,2023-06-01
+"Datahub
+(Shopify)",AUR,30.29,2022-06-01
+"Datahub
+(Shopify)",AUR,27.64,2021-06-01
+"Datahub
+(Shopify)",AOV,,2025-06-01
+"Datahub
+(Shopify)",AOV,108.23,2024-06-01
+"Datahub
+(Shopify)",AOV,104.03,2023-06-01
+"Datahub
+(Shopify)",AOV,115.66,2022-06-01
+"Datahub
+(Shopify)",AOV,109.0,2021-06-01
+"Datahub
+(Shopify)",UPT,,2025-06-01
+"Datahub
+(Shopify)",UPT,3.8,2024-06-01
+"Datahub
+(Shopify)",UPT,3.9,2023-06-01
+"Datahub
+(Shopify)",UPT,4.2,2022-06-01
+"Datahub
+(Shopify)",UPT,4.2,2021-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,53.93,2024-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,51.86,2023-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,52.75,2022-06-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,42.71,2021-06-01
+Datahub,MEDIA ROAS (only ad cost),,2025-06-01
+Datahub,MEDIA ROAS (only ad cost),2.4,2024-06-01
+Datahub,MEDIA ROAS (only ad cost),2.9,2023-06-01
+Datahub,MEDIA ROAS (only ad cost),2.1,2022-06-01
+Datahub,MEDIA ROAS (only ad cost),5.1,2021-06-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2025-06-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.2,2024-06-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-06-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-06-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-06-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,327055.0,2025-06-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2024-06-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-06-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-06-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-06-01
+Datahub,CAC,59.57,2025-06-01
+Datahub,CAC,40.29,2024-06-01
+Datahub,CAC,28.72,2023-06-01
+Datahub,CAC,39.67,2022-06-01
+Datahub,CAC,12.72,2021-06-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-06-01
+Datahub,TOTAL COST (Ads & Agency Fees),193961.0,2024-06-01
+Datahub,TOTAL COST (Ads & Agency Fees),153413.0,2023-06-01
+Datahub,TOTAL COST (Ads & Agency Fees),178926.0,2022-06-01
+Datahub,TOTAL COST (Ads & Agency Fees),52470.0,2021-06-01
+Datahub,CPO,,2025-06-01
+Datahub,CPO,20.75,2024-06-01
+Datahub,CPO,17.66,2023-06-01
+Datahub,CPO,24.06,2022-06-01
+Datahub,CPO,7.11,2021-06-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",,2025-07-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",948312.0,2024-07-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1036750.0,2023-07-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",792936.0,2022-07-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",837304.0,2021-07-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",,2025-07-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",264337.0,2024-07-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",234910.0,2023-07-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",215670.0,2022-07-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",177630.0,2021-07-01
+"Datahub
+(Shopify)",ORDERS,,2025-07-01
+"Datahub
+(Shopify)",ORDERS,8750.0,2024-07-01
+"Datahub
+(Shopify)",ORDERS,10527.0,2023-07-01
+"Datahub
+(Shopify)",ORDERS,7129.0,2022-07-01
+"Datahub
+(Shopify)",ORDERS,8159.0,2021-07-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,0.0,2025-07-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8417.0,2024-07-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,10083.0,2023-07-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,6804.0,2022-07-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7855.0,2021-07-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,,2025-07-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4016.0,2024-07-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,5147.0,2023-07-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3266.0,2022-07-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3959.0,2021-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,,2025-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4401.0,2024-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4936.0,2023-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3538.0,2022-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3896.0,2021-07-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2025-07-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.31,2024-07-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.48,2023-07-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.31,2022-07-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.59,2021-07-01
+"Datahub
+(Shopify)",AUR,,2025-07-01
+"Datahub
+(Shopify)",AUR,25.94,2024-07-01
+"Datahub
+(Shopify)",AUR,25.06,2023-07-01
+"Datahub
+(Shopify)",AUR,31.15,2022-07-01
+"Datahub
+(Shopify)",AUR,29.51,2021-07-01
+"Datahub
+(Shopify)",AOV,,2025-07-01
+"Datahub
+(Shopify)",AOV,108.38,2024-07-01
+"Datahub
+(Shopify)",AOV,101.82,2023-07-01
+"Datahub
+(Shopify)",AOV,114.72,2022-07-01
+"Datahub
+(Shopify)",AOV,108.0,2021-07-01
+"Datahub
+(Shopify)",UPT,,2025-07-01
+"Datahub
+(Shopify)",UPT,4.0,2024-07-01
+"Datahub
+(Shopify)",UPT,4.4,2023-07-01
+"Datahub
+(Shopify)",UPT,4.1,2022-07-01
+"Datahub
+(Shopify)",UPT,3.9,2021-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,52.29,2024-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,48.95,2023-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,52.0,2022-07-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,49.6,2021-07-01
+Datahub,MEDIA ROAS (only ad cost),,2025-07-01
+Datahub,MEDIA ROAS (only ad cost),2.0,2024-07-01
+Datahub,MEDIA ROAS (only ad cost),3.4,2023-07-01
+Datahub,MEDIA ROAS (only ad cost),2.8,2022-07-01
+Datahub,MEDIA ROAS (only ad cost),6.3,2021-07-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2025-07-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",4.3,2024-07-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-07-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-07-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-07-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2025-07-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2024-07-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-07-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-07-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-07-01
+Datahub,CAC,,2025-07-01
+Datahub,CAC,48.04,2024-07-01
+Datahub,CAC,22.61,2023-07-01
+Datahub,CAC,30.99,2022-07-01
+Datahub,CAC,12.53,2021-07-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-07-01
+Datahub,TOTAL COST (Ads & Agency Fees),222592.0,2024-07-01
+Datahub,TOTAL COST (Ads & Agency Fees),154081.0,2023-07-01
+Datahub,TOTAL COST (Ads & Agency Fees),165841.0,2022-07-01
+Datahub,TOTAL COST (Ads & Agency Fees),49602.0,2021-07-01
+Datahub,CPO,,2025-07-01
+Datahub,CPO,25.44,2024-07-01
+Datahub,CPO,14.64,2023-07-01
+Datahub,CPO,23.26,2022-07-01
+Datahub,CPO,6.08,2021-07-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",,2025-08-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1128110.0,2024-08-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",991799.0,2023-08-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1040540.0,2022-08-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",758426.0,2021-08-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",,2025-08-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",270805.0,2024-08-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",213330.0,2023-08-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",215430.0,2022-08-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",161380.0,2021-08-01
+"Datahub
+(Shopify)",ORDERS,,2025-08-01
+"Datahub
+(Shopify)",ORDERS,10341.0,2024-08-01
+"Datahub
+(Shopify)",ORDERS,9942.0,2023-08-01
+"Datahub
+(Shopify)",ORDERS,9503.0,2022-08-01
+"Datahub
+(Shopify)",ORDERS,6818.0,2021-08-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,0.0,2025-08-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9869.0,2024-08-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9500.0,2023-08-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,9181.0,2022-08-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,6560.0,2021-08-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,,2025-08-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4376.0,2024-08-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4533.0,2023-08-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3993.0,2022-08-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3328.0,2021-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,,2025-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5493.0,2024-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4967.0,2023-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5188.0,2022-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3232.0,2021-08-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2025-08-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.82,2024-08-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.66,2023-08-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.41,2022-08-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.22,2021-08-01
+"Datahub
+(Shopify)",AUR,,2025-08-01
+"Datahub
+(Shopify)",AUR,,2024-08-01
+"Datahub
+(Shopify)",AUR,25.18,2023-08-01
+"Datahub
+(Shopify)",AUR,28.2,2022-08-01
+"Datahub
+(Shopify)",AUR,30.93,2021-08-01
+"Datahub
+(Shopify)",AOV,,2025-08-01
+"Datahub
+(Shopify)",AOV,109.09,2024-08-01
+"Datahub
+(Shopify)",AOV,102.45,2023-08-01
+"Datahub
+(Shopify)",AOV,112.21,2022-08-01
+"Datahub
+(Shopify)",AOV,115.0,2021-08-01
+"Datahub
+(Shopify)",UPT,,2025-08-01
+"Datahub
+(Shopify)",UPT,,2024-08-01
+"Datahub
+(Shopify)",UPT,4.3,2023-08-01
+"Datahub
+(Shopify)",UPT,4.3,2022-08-01
+"Datahub
+(Shopify)",UPT,4.1,2021-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2024-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,52.28,2023-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,56.51,2022-08-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,49.27,2021-08-01
+Datahub,MEDIA ROAS (only ad cost),,2025-08-01
+Datahub,MEDIA ROAS (only ad cost),2.4,2024-08-01
+Datahub,MEDIA ROAS (only ad cost),3.2,2023-08-01
+Datahub,MEDIA ROAS (only ad cost),3.0,2022-08-01
+Datahub,MEDIA ROAS (only ad cost),5.2,2021-08-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2025-08-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.0,2024-08-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-08-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-08-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-08-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2025-08-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,330984.0,2024-08-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-08-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-08-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-08-01
+Datahub,CAC,,2025-08-01
+Datahub,CAC,42.97,2024-08-01
+Datahub,CAC,26.76,2023-08-01
+Datahub,CAC,27.74,2022-08-01
+Datahub,CAC,16.18,2021-08-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-08-01
+Datahub,TOTAL COST (Ads & Agency Fees),226602.0,2024-08-01
+Datahub,TOTAL COST (Ads & Agency Fees),156861.0,2023-08-01
+Datahub,TOTAL COST (Ads & Agency Fees),146739.0,2022-08-01
+Datahub,TOTAL COST (Ads & Agency Fees),78398.0,2021-08-01
+Datahub,CPO,,2025-08-01
+Datahub,CPO,,2024-08-01
+Datahub,CPO,15.78,2023-08-01
+Datahub,CPO,15.44,2022-08-01
+Datahub,CPO,11.5,2021-08-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",,2025-09-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",958711.0,2024-09-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1182469.0,2023-09-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1504647.0,2022-09-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",793354.0,2021-09-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",,2025-09-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",251658.0,2024-09-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",243870.0,2023-09-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",315570.0,2022-09-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",170270.0,2021-09-01
+"Datahub
+(Shopify)",ORDERS,,2025-09-01
+"Datahub
+(Shopify)",ORDERS,8876.0,2024-09-01
+"Datahub
+(Shopify)",ORDERS,12337.0,2023-09-01
+"Datahub
+(Shopify)",ORDERS,14463.0,2022-09-01
+"Datahub
+(Shopify)",ORDERS,7261.0,2021-09-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,0.0,2025-09-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8571.0,2024-09-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,11929.0,2023-09-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,13877.0,2022-09-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,6984.0,2021-09-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,,2025-09-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,4164.0,2024-09-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,5938.0,2023-09-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,5758.0,2022-09-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3470.0,2021-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,,2025-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4407.0,2024-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5991.0,2023-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,8119.0,2022-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,3514.0,2021-09-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2025-09-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.53,2024-09-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,5.06,2023-09-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.58,2022-09-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.26,2021-09-01
+"Datahub
+(Shopify)",AUR,,2025-09-01
+"Datahub
+(Shopify)",AUR,,2024-09-01
+"Datahub
+(Shopify)",AUR,22.97,2023-09-01
+"Datahub
+(Shopify)",AUR,25.74,2022-09-01
+"Datahub
+(Shopify)",AUR,28.46,2021-09-01
+"Datahub
+(Shopify)",AOV,,2025-09-01
+"Datahub
+(Shopify)",AOV,108.01,2024-09-01
+"Datahub
+(Shopify)",AOV,97.57,2023-09-01
+"Datahub
+(Shopify)",AOV,106.75,2022-09-01
+"Datahub
+(Shopify)",AOV,112.0,2021-09-01
+"Datahub
+(Shopify)",UPT,,2025-09-01
+"Datahub
+(Shopify)",UPT,,2024-09-01
+"Datahub
+(Shopify)",UPT,4.5,2023-09-01
+"Datahub
+(Shopify)",UPT,4.6,2022-09-01
+"Datahub
+(Shopify)",UPT,4.3,2021-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2024-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,50.22,2023-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,58.51,2022-09-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,50.32,2021-09-01
+Datahub,MEDIA ROAS (only ad cost),,2025-09-01
+Datahub,MEDIA ROAS (only ad cost),2.1,2024-09-01
+Datahub,MEDIA ROAS (only ad cost),2.8,2023-09-01
+Datahub,MEDIA ROAS (only ad cost),2.7,2022-09-01
+Datahub,MEDIA ROAS (only ad cost),3.9,2021-09-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2025-09-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",4.2,2024-09-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-09-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-09-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-09-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2025-09-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,326300.0,2024-09-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-09-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-09-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-09-01
+Datahub,CAC,,2025-09-01
+Datahub,CAC,46.58,2024-09-01
+Datahub,CAC,27.83,2023-09-01
+Datahub,CAC,26.21,2022-09-01
+Datahub,CAC,19.87,2021-09-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-09-01
+Datahub,TOTAL COST (Ads & Agency Fees),230447.0,2024-09-01
+Datahub,TOTAL COST (Ads & Agency Fees),214507.0,2023-09-01
+Datahub,TOTAL COST (Ads & Agency Fees),194971.0,2022-09-01
+Datahub,TOTAL COST (Ads & Agency Fees),118444.0,2021-09-01
+Datahub,CPO,,2025-09-01
+Datahub,CPO,,2024-09-01
+Datahub,CPO,17.39,2023-09-01
+Datahub,CPO,13.48,2022-09-01
+Datahub,CPO,16.31,2021-09-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",,2025-10-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",985807.0,2024-10-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",917970.0,2023-10-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",878486.0,2022-10-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",717909.0,2021-10-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",,2025-10-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",230419.0,2024-10-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",239930.0,2023-10-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",314170.0,2022-10-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",146310.0,2021-10-01
+"Datahub
+(Shopify)",ORDERS,,2025-10-01
+"Datahub
+(Shopify)",ORDERS,8814.0,2024-10-01
+"Datahub
+(Shopify)",ORDERS,8197.0,2023-10-01
+"Datahub
+(Shopify)",ORDERS,7770.0,2022-10-01
+"Datahub
+(Shopify)",ORDERS,6115.0,2021-10-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,0.0,2025-10-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,8362.0,2024-10-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7829.0,2023-10-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,7462.0,2022-10-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,5875.0,2021-10-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,,2025-10-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3561.0,2024-10-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3212.0,2023-10-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3227.0,2022-10-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,3019.0,2021-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,,2025-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4801.0,2024-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4617.0,2023-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,4235.0,2022-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,2856.0,2021-10-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2025-10-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.83,2024-10-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,3.42,2023-10-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,2.47,2022-10-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.18,2021-10-01
+"Datahub
+(Shopify)",AUR,,2025-10-01
+"Datahub
+(Shopify)",AUR,,2024-10-01
+"Datahub
+(Shopify)",AUR,38.46,2023-10-01
+"Datahub
+(Shopify)",AUR,34.83,2022-10-01
+"Datahub
+(Shopify)",AUR,32.37,2021-10-01
+"Datahub
+(Shopify)",AOV,,2025-10-01
+"Datahub
+(Shopify)",AOV,111.85,2024-10-01
+"Datahub
+(Shopify)",AOV,114.7,2023-10-01
+"Datahub
+(Shopify)",AOV,117.28,2022-10-01
+"Datahub
+(Shopify)",AOV,121.0,2021-10-01
+"Datahub
+(Shopify)",UPT,,2025-10-01
+"Datahub
+(Shopify)",UPT,,2024-10-01
+"Datahub
+(Shopify)",UPT,3.6,2023-10-01
+"Datahub
+(Shopify)",UPT,4.0,2022-10-01
+"Datahub
+(Shopify)",UPT,4.1,2021-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2024-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,58.97,2023-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,56.75,2022-10-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,48.61,2021-10-01
+Datahub,MEDIA ROAS (only ad cost),,2025-10-01
+Datahub,MEDIA ROAS (only ad cost),1.8,2024-10-01
+Datahub,MEDIA ROAS (only ad cost),1.8,2023-10-01
+Datahub,MEDIA ROAS (only ad cost),2.6,2022-10-01
+Datahub,MEDIA ROAS (only ad cost),3.7,2021-10-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2025-10-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",4.1,2024-10-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-10-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-10-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-10-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2025-10-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,323350.0,2024-10-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-10-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-10-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-10-01
+Datahub,CAC,,2025-10-01
+Datahub,CAC,58.4,2024-10-01
+Datahub,CAC,50.93,2023-10-01
+Datahub,CAC,32.83,2022-10-01
+Datahub,CAC,25.17,2021-10-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-10-01
+Datahub,TOTAL COST (Ads & Agency Fees),239645.0,2024-10-01
+Datahub,TOTAL COST (Ads & Agency Fees),198374.0,2023-10-01
+Datahub,TOTAL COST (Ads & Agency Fees),165068.0,2022-10-01
+Datahub,TOTAL COST (Ads & Agency Fees),110981.0,2021-10-01
+Datahub,CPO,,2025-10-01
+Datahub,CPO,,2024-10-01
+Datahub,CPO,24.2,2023-10-01
+Datahub,CPO,21.24,2022-10-01
+Datahub,CPO,18.15,2021-10-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",,2025-11-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1764492.0,2024-11-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",2544000.0,2023-11-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",2814993.0,2022-11-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",2135058.0,2021-11-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",,2025-11-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",318091.0,2024-11-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",365500.0,2023-11-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",400590.0,2022-11-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",273740.0,2021-11-01
+"Datahub
+(Shopify)",ORDERS,,2025-11-01
+"Datahub
+(Shopify)",ORDERS,17022.0,2024-11-01
+"Datahub
+(Shopify)",ORDERS,26558.0,2023-11-01
+"Datahub
+(Shopify)",ORDERS,30609.0,2022-11-01
+"Datahub
+(Shopify)",ORDERS,22707.0,2021-11-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,0.0,2025-11-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,16407.0,2024-11-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,25110.0,2023-11-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,29119.0,2022-11-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,21620.0,2021-11-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,,2025-11-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,7221.0,2024-11-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,11323.0,2023-11-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,13392.0,2022-11-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,11379.0,2021-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,,2025-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,9186.0,2024-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,13787.0,2023-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,15727.0,2022-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,10241.0,2021-11-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2025-11-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,5.35,2024-11-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,7.27,2023-11-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,7.64,2022-11-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,8.3,2021-11-01
+"Datahub
+(Shopify)",AUR,,2025-11-01
+"Datahub
+(Shopify)",AUR,,2024-11-01
+"Datahub
+(Shopify)",AUR,32.56,2023-11-01
+"Datahub
+(Shopify)",AUR,30.84,2022-11-01
+"Datahub
+(Shopify)",AUR,28.96,2021-11-01
+"Datahub
+(Shopify)",AOV,,2025-11-01
+"Datahub
+(Shopify)",AOV,103.66,2024-11-01
+"Datahub
+(Shopify)",AOV,96.68,2023-11-01
+"Datahub
+(Shopify)",AOV,92.87,2022-11-01
+"Datahub
+(Shopify)",AOV,95.0,2021-11-01
+"Datahub
+(Shopify)",UPT,,2025-11-01
+"Datahub
+(Shopify)",UPT,,2024-11-01
+"Datahub
+(Shopify)",UPT,3.5,2023-11-01
+"Datahub
+(Shopify)",UPT,3.4,2022-11-01
+"Datahub
+(Shopify)",UPT,3.5,2021-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2024-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,54.91,2023-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,54.01,2022-11-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,47.37,2021-11-01
+Datahub,MEDIA ROAS (only ad cost),,2025-11-01
+Datahub,MEDIA ROAS (only ad cost),2.1,2024-11-01
+Datahub,MEDIA ROAS (only ad cost),2.7,2023-11-01
+Datahub,MEDIA ROAS (only ad cost),3.4,2022-11-01
+Datahub,MEDIA ROAS (only ad cost),3.9,2021-11-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2025-11-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",4.6,2024-11-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-11-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-11-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-11-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2025-11-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,322038.0,2024-11-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-11-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-11-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-11-01
+Datahub,CAC,,2025-11-01
+Datahub,CAC,44.3,2024-11-01
+Datahub,CAC,30.01,2023-11-01
+Datahub,CAC,19.11,2022-11-01
+Datahub,CAC,17.31,2021-11-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-11-01
+Datahub,TOTAL COST (Ads & Agency Fees),384495.0,2024-11-01
+Datahub,TOTAL COST (Ads & Agency Fees),391018.0,2023-11-01
+Datahub,TOTAL COST (Ads & Agency Fees),307062.0,2022-11-01
+Datahub,TOTAL COST (Ads & Agency Fees),245648.0,2021-11-01
+Datahub,CPO,,2025-11-01
+Datahub,CPO,,2024-11-01
+Datahub,CPO,14.72,2023-11-01
+Datahub,CPO,10.03,2022-11-01
+Datahub,CPO,10.82,2021-11-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",,2025-12-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",2345488.0,2024-12-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1595092.0,2023-12-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1577359.0,2022-12-01
+"Datahub
+(Shopify)","GROSS-DISC
+Missing 4 months of 21 because of migration from Magento to Shopify",1155078.0,2021-12-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",,2025-12-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",359183.0,2024-12-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",309010.0,2023-12-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",357270.0,2022-12-01
+"Datahub
+(GA4)","SESSIONS
+Measurement changed after GA4 in June 23.",218710.0,2021-12-01
+"Datahub
+(Shopify)",ORDERS,,2025-12-01
+"Datahub
+(Shopify)",ORDERS,22166.0,2024-12-01
+"Datahub
+(Shopify)",ORDERS,16142.0,2023-12-01
+"Datahub
+(Shopify)",ORDERS,15556.0,2022-12-01
+"Datahub
+(Shopify)",ORDERS,11543.0,2021-12-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,0.0,2025-12-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,21360.0,2024-12-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,15997.0,2023-12-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,15003.0,2022-12-01
+"Datahub
+(Shopify)",TOTAL CUSTOMERS,11228.0,2021-12-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,,2025-12-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,10118.0,2024-12-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,7928.0,2023-12-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,7872.0,2022-12-01
+"Datahub
+(Shopify)",NEW CUSTOMERS,5759.0,2021-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,,2025-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,11242.0,2024-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,8069.0,2023-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,7131.0,2022-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMERS,5469.0,2021-12-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,,2025-12-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,6.17,2024-12-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,5.22,2023-12-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,4.35,2022-12-01
+"Datahub
+(Shopify orders/GA sessions)",CONVERSION,5.28,2021-12-01
+"Datahub
+(Shopify)",AUR,,2025-12-01
+"Datahub
+(Shopify)",AUR,,2024-12-01
+"Datahub
+(Shopify)",AUR,29.75,2023-12-01
+"Datahub
+(Shopify)",AUR,31.06,2022-12-01
+"Datahub
+(Shopify)",AUR,29.6,2021-12-01
+"Datahub
+(Shopify)",AOV,,2025-12-01
+"Datahub
+(Shopify)",AOV,105.81,2024-12-01
+"Datahub
+(Shopify)",AOV,101.12,2023-12-01
+"Datahub
+(Shopify)",AOV,103.25,2022-12-01
+"Datahub
+(Shopify)",AOV,103.0,2021-12-01
+"Datahub
+(Shopify)",UPT,,2025-12-01
+"Datahub
+(Shopify)",UPT,,2024-12-01
+"Datahub
+(Shopify)",UPT,3.8,2023-12-01
+"Datahub
+(Shopify)",UPT,3.6,2022-12-01
+"Datahub
+(Shopify)",UPT,3.7,2021-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2025-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,,2024-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,50.44,2023-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,47.53,2022-12-01
+"Datahub
+(Shopify)",REPEAT CUSTOMER RATE,48.71,2021-12-01
+Datahub,MEDIA ROAS (only ad cost),,2025-12-01
+Datahub,MEDIA ROAS (only ad cost),2.3,2024-12-01
+Datahub,MEDIA ROAS (only ad cost),2.4,2023-12-01
+Datahub,MEDIA ROAS (only ad cost),2.2,2022-12-01
+Datahub,MEDIA ROAS (only ad cost),3.4,2021-12-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2025-12-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",5.5,2024-12-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2023-12-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2022-12-01
+Datahub,"MARKETING ROAS 
+(ad cost, agency cost, organic search, email/SMS)",,2021-12-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2025-12-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,318750.0,2024-12-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2023-12-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2022-12-01
+"Listrak = Based on full file""sends"" in-month 
+Insider = Based on list size in portal",EMAIL LIST SIZE,,2021-12-01
+Datahub,CAC,,2025-12-01
+Datahub,CAC,38.57,2024-12-01
+Datahub,CAC,34.35,2023-12-01
+Datahub,CAC,33.7,2022-12-01
+Datahub,CAC,22.83,2021-12-01
+Datahub,TOTAL COST (Ads & Agency Fees),,2025-12-01
+Datahub,TOTAL COST (Ads & Agency Fees),430057.0,2024-12-01
+Datahub,TOTAL COST (Ads & Agency Fees),342850.0,2023-12-01
+Datahub,TOTAL COST (Ads & Agency Fees),316462.0,2022-12-01
+Datahub,TOTAL COST (Ads & Agency Fees),199161.0,2021-12-01
+Datahub,CPO,,2025-12-01
+Datahub,CPO,,2024-12-01
+Datahub,CPO,21.24,2023-12-01
+Datahub,CPO,20.34,2022-12-01
+Datahub,CPO,17.25,2021-12-01
