@@ -71,9 +71,9 @@ Your browser will automatically open the interactive dashboard 🎯
 
 ```
 .
-├── mockdata2.py               # Synthetic data generator
-├── jupyterfile.ipynb          # ML workflow notebook
-├── dashboards.py              # Streamlit dashboard
+├── mockdata.py               # Synthetic data generator
+├── JupyterFile.ipynb          # ML workflow notebook
+├── dashboard.py              # Streamlit dashboard
 ├── requirements.txt           # Python package list
 ├── campaigns.csv              # Generated mock data
 ├── sessions.csv               # Generated mock data
