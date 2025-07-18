@@ -14,8 +14,8 @@ This project includes:
 | File/Script | Description |
 |-------------|-------------|
 | `mockdata.py` | A **data factory** script that generates synthetic campaign, session, and order data (`CSV` format). |
-| `jupyterfile.ipynb` | A **Jupyter Notebook** covering the entire ML workflow: data loading, feature engineering, Optuna hyperparameter tuning, and XGBoost model training. |
-| `dashboards.py` | A **Streamlit app** offering an interactive dashboard for data exploration and predictive analytics. |
+| `JupyterFile.ipynb` | A **Jupyter Notebook** covering the entire ML workflow: data loading, feature engineering, Optuna hyperparameter tuning, and XGBoost model training. |
+| `dashboard.py` | A **Streamlit app** offering an interactive dashboard for data exploration and predictive analytics. |
 | `requirements.txt` | A list of all required **Python dependencies**. |
 | `conversion_model.joblib` | The **trained XGBoost model**, ready for inference in the dashboard. |
 | `model_features.joblib` | A saved list of **model features** used during training, ensuring consistency. |
